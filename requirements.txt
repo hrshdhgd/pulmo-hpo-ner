@@ -1,0 +1,5 @@
+python-docx
+fitz
+git+https://github.com/monarch-initiative/runner.git
+PyMuPDF
+ocrmypdf
